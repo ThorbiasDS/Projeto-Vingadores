@@ -1,0 +1,53 @@
+.logo{
+    width: 10%
+}
+.introdução{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 2%;
+}
+.texto_Thor{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    padding: 1%;
+}
+#carouselExampleIndicators{
+    padding: 2%;
+}
+.musicaVingadores{
+    margin-top: 2%;
+    margin-left: 15%;
+    background-color: blue;
+}
+.cartões{
+    float: left;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+.login{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.jumbotron{
+    margin-top: 2%;
+}
+.thor-hela{
+    width: 100%;
+}
+.modais{
+    margin-left: 20%;
+}
+.titulo-modais{
+    font-family: 'Marvel', sans-serif;
+    margin-left: 30%;
+    font-size: 300%;
+}
+.thor-wakanda{
+    width: 100%;
+}
+.thor-hulk{
+    width: 100%;
+}
+.casa-thor{
+    width: 100%;
+}

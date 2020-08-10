@@ -1,0 +1,51 @@
+.logo{
+    width: 10%;
+}
+.carousel{
+    padding: 2%;
+}
+.imagem-principal{
+    width: 24.75vh;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.texto-introdutorio{
+    font-size: 200%;
+    text-align: justify;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.chao{
+    width: 100%;
+    border: 10px solid;
+    border-color: red;
+}
+.amor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.amor-visao{
+    margin-left: 10%;
+}
+.amor-wanda{
+    margin-right: 10%;
+}
+.titulo-amor{
+    display: flex;
+    flex-direction: row;
+}
+.titulo{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 150%;
+}
+.texto-romance{
+    font-family: 'Darker Grotesque', sans-serif;
+    padding: 5%;
+    text-align: justify;
+    font-size: 150%;
+}
